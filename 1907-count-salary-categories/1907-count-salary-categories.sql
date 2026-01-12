@@ -25,12 +25,12 @@ select
     category,
     accounts_count
 from low_salary
-union 
+union all
     select 
         category,
         accounts_count 
     from medium_salary
-union 
+union all
     select 
         category,
         accounts_count 
