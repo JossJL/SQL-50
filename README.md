@@ -15,6 +15,7 @@ Solutions to LeetCode's SQL 50 Challenges
 | [1148-article-views-i](https://github.com/JossJL/SQL-50/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/JossJL/SQL-50/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/JossJL/SQL-50/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1280-students-and-examinations](https://github.com/JossJL/SQL-50/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JossJL/SQL-50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/JossJL/SQL-50/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/JossJL/SQL-50/tree/master/1661-average-time-of-process-per-machine) |
