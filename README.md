@@ -16,6 +16,7 @@ Solutions to LeetCode's SQL 50 Challenges
 | [1204-last-person-to-fit-in-the-bus](https://github.com/JossJL/SQL-50/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JossJL/SQL-50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/JossJL/SQL-50/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/JossJL/SQL-50/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/JossJL/SQL-50/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/JossJL/SQL-50/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/JossJL/SQL-50/tree/master/1907-count-salary-categories) |
