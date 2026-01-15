@@ -18,6 +18,7 @@ Solutions to LeetCode's SQL 50 Challenges
 | [1148-article-views-i](https://github.com/JossJL/SQL-50/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/JossJL/SQL-50/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/JossJL/SQL-50/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](https://github.com/JossJL/SQL-50/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/JossJL/SQL-50/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/JossJL/SQL-50/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/JossJL/SQL-50/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
