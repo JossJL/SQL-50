@@ -23,4 +23,5 @@ Solutions to LeetCode's SQL 50 Challenges
 | [1683-invalid-tweets](https://github.com/JossJL/SQL-50/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/JossJL/SQL-50/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/JossJL/SQL-50/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/JossJL/SQL-50/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
