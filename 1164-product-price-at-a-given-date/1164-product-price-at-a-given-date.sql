@@ -5,7 +5,7 @@ with changed_products as(
         new_price as change_price
     from products p1
     where (product_id, change_date) in (
-        -- Subquery to find the LATEST date for each product
+        -- Subquery to find the max date for each product
         select product_id, max(change_date)
         from products
         where change_date <= '2019-08-16'
